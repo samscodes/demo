@@ -1,0 +1,42 @@
+[33mcommit f005079b13211724fa9cddf40b5de3d2ac8362c4[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: samscodes <judgesammmy@gmail.com>
+Date:   Tue Feb 18 16:29:30 2020 +0800
+
+    remove myfile.txt
+
+[33mcommit c5a74fa6936ece52c6526023d24544b3ebd32863[m
+Author: samscodes <judgesammmy@gmail.com>
+Date:   Tue Feb 18 16:27:54 2020 +0800
+
+    rename licence
+
+[33mcommit 29d34059b1906ad8f892ac934266cac1bedc600c[m
+Author: samscodes <judgesammmy@gmail.com>
+Date:   Tue Feb 18 16:22:34 2020 +0800
+
+    deleting deom file
+
+[33mcommit 572b74ce843a5d3105cf3c7dbd06f8bbdc01b08e[m
+Author: samscodes <judgesammmy@gmail.com>
+Date:   Tue Feb 18 16:21:35 2020 +0800
+
+    rename the example file
+
+[33mcommit a23a1856ab2b23e430120748bfec74d4cb931878[m
+Author: samscodes <judgesammmy@gmail.com>
+Date:   Tue Feb 18 16:19:27 2020 +0800
+
+    adding example file
+
+[33mcommit 998d84f7223371a8ef8b65bf08d5e747cbc3bf63[m
+Author: samscodes <judgesammmy@gmail.com>
+Date:   Tue Feb 18 15:12:02 2020 +0800
+
+    Updating README.txt
+
+[33mcommit 3049d38fb56e4a770408f44590e81d9da15841ef[m
+Author: samscodes <judgesammmy@gmail.com>
+Date:   Mon Feb 17 17:35:20 2020 +0800
+
+    Adding both a README
+    AND LICENCEfile
